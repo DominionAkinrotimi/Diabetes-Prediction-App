@@ -20,8 +20,9 @@ To run the app locally, follow these steps:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your_username/diabetes-prediction-app.git
+```bash
+git clone https://github.com/your_username/diabetes-prediction-app.git
+```
 
 2. Navigate to the project directory:
 
